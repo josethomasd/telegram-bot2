@@ -1,0 +1,7 @@
+cron:
+- description: "send message"
+  url: /msg1
+  schedule: every day 21:00
+  timezone : EST
+
+
