@@ -16,7 +16,7 @@ import sys
 reload(sys)  
 sys.setdefaultencoding('utf8')
 
-TOKEN = '392793406:AAGGFJW1XOelq1-McaAKlgL-jnygPve-r0Q'
+TOKEN = ''
 
 BASE_URL = 'https://api.telegram.org/bot' + TOKEN + '/'
 
